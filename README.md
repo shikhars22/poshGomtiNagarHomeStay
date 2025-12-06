@@ -296,7 +296,7 @@ This project is proprietary to Posh Gomti Nagar. Unauthorized use or distributio
 ## 📞 Support & Contact
 
 For questions or issues related to this project:
-- **Email:** shikhar@detmo.in
+- **Email:** shikhar@detmo.co
 - **GitHub:** https://github.com/shikhars22/poshGomtiNagarHomeStay
 
 For property inquiries:
