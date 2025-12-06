@@ -18,8 +18,8 @@ import {
 } from 'lucide-react';
 import logoImg from './images/homeslogowithoutbackgroundcropped.png';
 import familyImg from './images/family.png';
-import balconyImg from './images/balcony.png';
-import terraceImg from './images/terrace.png';
+import balconyImg from './images/balconylight.png';
+import terraceImg from './images/terracelight.png';
 import kitchenImg from './images/kitchen.jpg';
 import mastersuiteImg from './images/mastersuitelight.png';
 
