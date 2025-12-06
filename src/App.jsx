@@ -21,7 +21,7 @@ import familyImg from './images/family.png';
 import balconyImg from './images/balcony.png';
 import terraceImg from './images/terrace.png';
 import kitchenImg from './images/kitchen.jpg';
-import mastersuiteImg from './images/mastersuite.png';
+import mastersuiteImg from './images/mastersuitelight.png';
 
 /* --- AWADHI & CORPORATE THEME CONFIGURATION ---
   Green (Leaf/Nature): #15803d (Tailwind green-700) -> 40% usage
