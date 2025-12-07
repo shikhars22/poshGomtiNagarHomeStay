@@ -280,8 +280,8 @@ const App = () => {
                 </div>
                 <div className="h-40 md:h-64 bg-yellow-500 rounded-2xl overflow-hidden relative group">
                    <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-all"></div>
-                <img src={terraceImg} alt="Balcony with Plants" className="object-cover w-full h-full opacity-100" onError={(e) => {e.target.style.opacity=0; e.target.parentElement.classList.add('bg-yellow-800');}} />
-                   <div className="absolute bottom-3 left-3 md:top-4 md:left-4 font-bold text-slate-900 text-sm md:text-base">Sunlit Workspace</div>
+                <img src={terraceImg} alt="Sunlit Workspace" className="object-cover w-full h-full opacity-100" onError={(e) => {e.target.style.opacity=0; e.target.parentElement.classList.add('bg-yellow-800');}} />
+                   <div className="absolute top-3 left-3 md:top-4 md:left-4 font-bold text-slate-900 text-sm md:text-base">Sunlit Workspace</div>
                 </div>
               </div>
               <div className="space-y-3 md:space-y-4">
